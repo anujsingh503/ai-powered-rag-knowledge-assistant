@@ -42,6 +42,18 @@ ai-powered-rag-knowledge-assistant/
 └── README.md
 ```
 
+
+## Project Screenshots
+
+### PDF Upload Workflow
+![PDF Upload Workflow](screenshots/pdf-upload-workflow.png)
+
+### RAG Chat Workflow
+![RAG Chat Workflow](screenshots/rag-chat-workflow.png)
+
+### Working Application
+![RAG Knowledge Assistant UI](screenshots/rag-assistant-ui.png)
+
 ## Setup Instructions
 
 1. Install and run n8n.
